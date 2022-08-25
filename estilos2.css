@@ -1,0 +1,15 @@
+h1{
+    color: white;
+    background-color: rgba(127, 255, 212, 0.709);
+    font-size:50px;
+    font-style: italic;
+    font-weight: bold;
+    text-align:center;
+    text-decoration: underline;
+    
+    
+}
+body{
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
